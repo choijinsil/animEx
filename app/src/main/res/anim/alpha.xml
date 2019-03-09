@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--duration 필수로 넣어줘야 한다.-->
+<set xmlns:android="http://schemas.android.com/apk/res/android" android:duration="5000">
+
+    <alpha android:toAlpha="1.0" android:fromAlpha="0.0"/>
+
+</set>
